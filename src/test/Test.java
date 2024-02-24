@@ -35,7 +35,7 @@ public class Test {
 
         diccionario.put("perro", "dog");
         diccionario.put("pepino", "cucumber");
-        diccionario.put("macarrones", "macarrounis");
+        diccionario.put("azul", "blue");
         diccionario.put("crema", "cream");
         diccionario.put("flor", "flower");
         diccionario.put("tomate", "tomate");
@@ -43,7 +43,7 @@ public class Test {
         diccionario.put("bebe", "baby");
         diccionario.put("amor", "love");
         diccionario.put("odio", "hate");
-        diccionario.put("hierba", "cocaine");
+        diccionario.put("verde", "green");
         diccionario.put("feliz", "happy");
         diccionario.put("triste", "sad");
         diccionario.put("aleatorio", "random");
